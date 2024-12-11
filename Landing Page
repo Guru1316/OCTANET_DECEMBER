@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Avalanche Kitchen</title>
+        <link rel="icon" href="c:\Users\Guruprasad K\Pictures\Saved Pictures\Avalanche kitchen.jpg">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body bgcolor="lightgrey" style="color:black;">
+        <div id="header">
+            <center>
+                <h1><ins>Avalanche Kitchen</ins></h1>
+                <h2>(Exclusively for Biryani)</h2>
+                <hr><hr>
+                <a href="homepage.html">Home</a> | <a href="aboutpage.html">About</a> | <a href="contactpage.html">Contact us</a>
+            </center>
+        </div>
+        <h1>Menu:</h1>
+        <ol>
+           <h1><li>Chicken Biryani</li></h1>
+            <img src="C:\Users\Guruprasad K\OneDrive\Gambar\Saved Pictures\istockphoto-1345624336-612x612.jpg" alt="Chicken Biryani" width="450" height="500" >
+            <p><h4>
+
+
+                "Avalanche Kitchen's Chicken Biryani Delight"<br>
+                
+                
+                "Savor the quintessential Indian culinary experience with our signature Chicken Biryani, expertly crafted to tantalize your taste buds. Tender chicken pieces are marinated in a rich blend of spices, herbs, and yogurt, then layered with fragrant basmati rice and slow-cooked to perfection.
+                
+                
+                Our Chicken Biryani boasts:
+                
+                
+                Marinated chicken cooked to juicy perfection
+                Aromatic basmati rice infused with saffron, cardamom, and cinnamon
+                Flavorful mix of cumin, coriander, and turmeric
+                Hint of mint and cilantro for freshness
+                
+                
+                Every bite is a symphony of textures and flavors:
+                
+                
+                Soft, fluffy rice
+                Tender, spicy chicken
+                Crunchy onions and fresh herbs
+                
+                
+                <br><br>
+                
+                <h2>
+                Price: Rs.280/-
+                </h2>
+                <br>
+                <br>
+                
+                </h4></p>
+            <h1><li>Mutton Biryani</li></h1>   
+            <img src="https://t4.ftcdn.net/jpg/06/12/87/71/360_F_612877124_1ZmDz0V37Yc48er7IdGZbv3vi20l1L0Y.jpg" alt="Mutton Biryani" width="450px" height="500">
+            <p><h4>
+                "Avalanche Kitchen's Signature Mutton Biryani"<br>
+                
+                "Indulge in our rich and flavorful Mutton Biryani, crafted with love and care to transport your taste buds to the spice-scented streets of India. Tender mutton pieces are slow-cooked in a fragrant blend of aromatic spices, basmati rice, and herbs, creating a culinary symphony that will leave you craving for more.
+                
+                Our Mutton Biryani is a masterful blend of:
+                
+                Juicy mutton marinated in yogurt and spices
+                Aromatic basmati rice infused with saffron and cardamom
+                Flavorful mix of cinnamon, cloves, and star anise
+                Hint of mint and coriander for freshness
+                
+                Every bite is a harmonious balance of spices, texture, and flavor, making this dish a true delight for biryani lovers. Served hot, garnished with fresh cilantro and lemon wedges."
+                
+                <br>
+                <br><h2>
+                Price: Rs.350/-
+                </h2>
+                <br><br></h4></p>
+                <h1><li>Fish Biryani</li></h1>
+                <img src="C:\Users\Guruprasad K\OneDrive\Gambar\Saved Pictures\istockphoto-1334383300-612x612.jpg" alt="Fish Biryani" width="450px" height="500">
+                <p><h4>
+                    Classic Description
+                    
+                    "Fish Biryani: Tender fish cooked in a flavorful blend of spices, herbs, and fragrant basmati rice, served with a side of raita (yogurt sauce) and salad."
+                    
+                    
+                    Spicy Version
+                    
+                    "Spicy Fish Biryani: Fresh fish marinated in a zesty mix of chili peppers, garlic, and ginger, cooked with aromatic basmati rice and finished with a sprinkle of crispy onions."
+                    
+                    
+                    Regional Special
+                    
+                    "Hyderabadi Fish Biryani: Delicate fish cooked in a rich blend of coconut milk, spices, and herbs, layered with fluffy basmati rice and served with a side of cucumber raita."
+                    
+                    
+                    Gourmet Description
+                    
+                    "Premium Fish Biryani: Sustainably-sourced fish cooked in a fragrant blend of saffron, cardamom, and cinnamon, served with fluffy basmati rice and a side of tangy mango chutney."
+                    
+                    
+                    Simple and Savory
+                    
+                    "Fish Biryani: Fresh fish, flavorful spices, and fragrant rice come together in this delicious, easy-to-love dish."
+                    
+                    
+                    Foodie Description
+                    
+                    "Fish Biryani: A symphony of flavors and textures, with tender fish, crunchy onions, and fluffy rice, all bound together by a rich, aromatic spice blend."
+                    <br><br><h2>
+                    Price: Rs.230/-</h2>
+                    
+                    </h4></p>
+        </ol>
+        <hr><hr>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Avalanche Kitchen</title>
+        <link rel="icon" href="c:\Users\Guruprasad K\Pictures\Saved Pictures\Avalanche kitchen.jpg">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body bgcolor="lightgrey" style="color:black;">
+        <div id="header">
+        <center>
+            <h1><ins>Avalanche Kitchen</ins></h1>
+            <h2>(Exclusively for Biryani)</h2>
+            <hr><hr>
+            <a href="homepage.html">Home</a> | <a href="aboutpage.html">About</a> | <a href="contactpage.html">Contact us</a>
+        </center>
+        </div>
+        <p><h3>
+            
+           <h2>Introduction:</h2><br>
+            
+            Welcome to Avalanche Kitchen, where the love for biryani knows no bounds! We're passionate about serving the finest, most authentic biryani experiences that will leave you craving for more.
+            
+            <br><br>
+            <h2>Our Story:</h2><br>
+            
+            Avalanche Kitchen was born out of a shared passion for biryani among friends. We experimented with various recipes, techniques, and flavors to perfect the art of biryani-making. Our journey took us to different parts of India, exploring regional specialties and secret recipes. Today, we're proud to bring our expertise to your table.
+        
+            <br><br>
+            <h2>Our Mission:</h2><br>
+            
+            To serve the most delicious, authentic biryani experiences that transport your taste buds to the heart of India.
+            
+            <br><br>
+            <h2>Our Values:</h2><br>
+            
+            1. Quality: We use only the freshest ingredients and traditional spices.<br>
+            2. Authenticity: Our recipes are inspired by regional Indian cuisine.<br>
+            3. Passion: We're dedicated to perfecting the art of biryani-making.<br>
+            4. Customer Delight: Your satisfaction is our top priority.<br>
+            
+            
+            
+            
+            
+        
+            
+           </h3></p>
+           <hr><hr>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Avalanche Kitchen</title>
+        <link rel="icon" href="c:\Users\Guruprasad K\Pictures\Saved Pictures\Avalanche kitchen.jpg">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body bgcolor="lightgrey" style="color:black;">
+        <div id="header">
+        <center>
+            <h1><ins>Avalanche Kitchen</ins></h1>
+            <h2>(Exclusively for Biryani)</h2>
+            <hr><hr>
+            <a href="homepage.html">Home</a> | <a href="aboutpage.html">About</a> | <a href="contactpage.html">Contact us</a>
+        </center>
+        </div>
+        <p>
+           <h1>Contact Us:</h1><br> 
+            <h2>Phone:123-456-7890 </h2>
+            <h2>Email:avalanchekitchen@gmail.com </h2>
+            <h2>Address: 7/189 B4, Avalanche, Ooty, The Nilgiris-643242</h2>            
+            
+        </p>
+        <hr><hr>
+    </body>
+</html>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+}
+
+/* Header styles */
+#header {
+    background-color: #FF5733;
+    padding: 20px;
+    color: white;
+}
+
+#header h1 {
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+#header h2 {
+    font-size: 24px;
+    font-weight: normal;
+}
+
+#header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px 30px;
+}
+
+#header a:hover {
+    background-color: white;
+    color: #FF5733;
+    border-radius: 5px;
+}
+
+/* Main content area styling */
+h1 {
+    font-size: 30px;
+    margin: 20px 0;
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 10px 0;
+    text-align: center;
+    color: #555;
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+ol {
+    list-style-type: none;
+    padding: 5px;
+    padding-right: 2px;
+}
+
+li {
+    margin: 20px 0;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+ol img {
+    display: inline;
+    margin: 20px 0;
+    border-radius: 6px;
+    max-width: 100%;
+    height: auto;
+    float: right;
+    padding-left: 2px;
+}
+
+h3, p {
+    font-size: 18px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+/* Pricing section */
+h2.price {
+    color: #FF5733;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Contact and about sections */
+section {
+    margin: 30px auto;
+    padding: 20px;
+    max-width: 1200px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 26px;
+    color: #333;
+}
+
+section p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Footer styling */
+footer {
+    background-color: #FF5733;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
